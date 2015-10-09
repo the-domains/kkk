@@ -1,6 +1,6 @@
 name: kkk
 favicon: null
-layout_spectrum: 0.23556
+layout_spectrum: 0
 title: sdfds
 cta:
   domain: null
@@ -21,10 +21,10 @@ color:
     - '#898b8a'
     - '#007fda'
     - '#0046bf'
-  brandStrength: 0.4375
-  lightness: 0.25
-  saturation: 0.875
-  rhythmicContrast: 0.75
+  brandStrength: 0.6875
+  lightness: 0.3125
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose:
   - name: awareness
     item: null
